@@ -106,10 +106,6 @@ Especializado em **Java/Spring Boot** no backend e **React.js** no frontend, com
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OdevMatheus&theme=github-dark&hide_border=true)](https://github.com/OdevMatheus)
   
   <br><br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdevMatheus&theme=github_dark&hide_border=true&layout=compact)](https://github.com/OdevMatheus)
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OdevMatheus&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/OdevMatheus)
 
 </div>
 
