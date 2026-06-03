@@ -100,11 +100,6 @@ No meu dia a dia, trabalho na sustentação de sistemas legados e modernos em ar
 
 <br>
 
-<div align="center">
-  <i>"Construindo soluções escaláveis e limpas, linha por linha."</i><br><br>
-  <img src="https://komarev.com/ghpvc/?username=OdevMatheus&style=flat-square&color=blue" alt="Profile Views">
-</div>
-
 ---
 
 ## 📈 Estatísticas Técnicas
