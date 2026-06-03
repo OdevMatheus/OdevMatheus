@@ -16,19 +16,11 @@
 
 ## 📌 Sobre Mim
 
-Sou **Matheus Henrique**, desenvolvedor **Full Stack** com **1 ano e meio de experiência profissional** em desenvolvimento de aplicações robustas, escaláveis e de alta criticidade.
+Olá, me chamo **Matheus Henrique**! Sou um desenvolvedor **Full-Stack** apaixonado por criar arquiteturas limpas e resolver problemas complexos. Atualmente atuo no setor governamental, lidando com sistemas de alta disponibilidade e grande impacto social.
 
-Tenho sólida expertise em:
+No meu dia a dia, trabalho na sustentação de sistemas legados e modernos em arquitetura MVC, resolvendo issues críticas — como a adaptação estrutural da plataforma SRTP para compatibilidade com o novo formato de CNPJ Alfanumérico. Tenho experiência prática e ativa em modernização de infraestrutura, tendo participado da migração de parques tecnológicos de **Java 8 para 17** e servidores **JBoss/Wildfly 10 para 26**.
 
-- 🏛️ **Modernização de sistemas** críticos com arquitetura enterprise
-- 🔧 **Full Stack Development**: Backend robusto + Frontend responsivo
-- 🎯 **Arquitetura escalável** seguindo SOLID e padrões de mercado
-- 📊 **Integração de dados complexos** com processamento high-performance
-- 🐳 **Containerização e orquestração** com Docker e CI/CD
-
-Especializado em **Java/Spring Boot** no backend e **React.js** no frontend, com profundo conhecimento em bancos de dados, message brokers e infraestrutura moderna.
-
-**Linguagem Inglês**: B1 (Pré-intermediário) | **Email**: matheusvita007@gmail.com
+**Email**: matheusvita007@gmail.com
 
 ---
 
@@ -102,11 +94,15 @@ Especializado em **Java/Spring Boot** no backend e **React.js** no frontend, com
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OdevMatheus&theme=github-dark&hide_border=true)](https://github.com/OdevMatheus)
-  
-  <br><br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=OdevMatheus&theme=github-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=OdevMatheus&theme=github-dark&hide_border=true&bg_color=0D1117&color=0F7AFF&line=0F7AFF&point=FFFFFF&area=true&hide_title=true" />
+</div>
 
+<br>
+
+<div align="center">
+  <i>"Construindo soluções escaláveis e limpas, linha por linha."</i><br><br>
+  <img src="https://komarev.com/ghpvc/?username=OdevMatheus&style=flat-square&color=blue" alt="Profile Views">
 </div>
 
 ---
@@ -119,15 +115,13 @@ Especializado em **Java/Spring Boot** no backend e **React.js** no frontend, com
 |---------|----------|
 | **Experiência Profissional** | 1 ano e 6 meses |
 | **Nível Inglês** | B1 (Pré-Intermediário) |
-| **Linguagens Dominadas** | 3+ (Java, JavaScript, SQL) |
 | **Frameworks Principais** | Spring Boot, React.js, JSF/PrimeFaces |
-| **Bancos de Dados** | PostgreSQL, Redis (cache/sessions) |
+| **Bancos de Dados** | PostgreSQL, MySQL, Redis (cache/sessions) |
 | **Message Brokers** | Apache Kafka |
 | **Containerização** | Docker |
 | **CI/CD** | Pipelines automatizados |
 | **IDEs Profissionais** | IntelliJ IDEA, Eclipse, VSCode |
 | **Ferramentas DB** | DataGrip, DBeaver |
-| **Projetos em Produção** | Múltiplos |
 
 </div>
 
@@ -440,14 +434,6 @@ Meus focos principais:
 
 ---
 
-## 💡 Filosofia de Desenvolvimento
-
-```
-"Código excelente não é apenas funcional. É uma forma de arte que comunica
- intenções claras, compartilha conhecimento, facilita manutenção futura e
- cria valor duradouro para toda organização e seus usuários."
-```
-
 ### 🎯 Meus Princípios:
 
 | Princípio | Descrição |
@@ -463,27 +449,7 @@ Meus focos principais:
 
 ---
 
-## 📊 Visualizações de Perfil
-
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=OdevMatheus&style=flat-square&color=blue)
-
-<br><br>
-
-**⭐ Gráfico de Contribuições**
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OdevMatheus&theme=github-dark&hide_border=true)](https://github.com/OdevMatheus)
-
-</div>
-
----
-
-<div align="center">
-
----
-
-### 🌟 **"A busca pela excelência em código é uma jornada contínua"**
 
 **Obrigado por visitar meu perfil!** Se gostou, considere deixar uma ⭐ Star em meus repositórios.
 
@@ -497,7 +463,6 @@ Meus focos principais:
 
 ---
 
-**Última Atualização**: Junho de 2026 | **Versão**: 3.0 - Ultra Profissional
 **Status**: 🟢 Disponível para Oportunidades | 📧 Responderei em 24h
 
 </div>
