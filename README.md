@@ -164,7 +164,7 @@ Em vez de listar classificações por estrelas subjetivas, prefiro demonstrar **
 
 ---
 
-## 📖 Formação, Certificações & Filosofia
+## 📖 Formação & Certificações
 
 <details>
   <summary><b>🎓 Clique para expandir Formação Acadêmica</b></summary>
@@ -173,7 +173,11 @@ Em vez de listar classificações por estrelas subjetivas, prefiro demonstrar **
 ### 🏫 Acadêmica
 *   **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** — UniDomBosco (2025 - 2027)
 *   **Curso Técnico em Análise e Desenvolvimento de Sistemas** — Colégio Estadual Leôncio Correia (2022 - 2024)
- 
+
+ ### 🏆 Cursos & Certificações
+*   **Git e GitHub** — Alura (16h)
+*   **Lógica de Programação** — Alura (12h)
+*   **Pensamento Computacional** — Alura (12h)
 
 ### 🗣️ Idiomas
 *   **Inglês** — Técnico / Instrumental (Leitura, interpretação de documentações e escrita técnica)
