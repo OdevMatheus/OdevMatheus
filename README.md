@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Matheus!!
+# 👋 Olá, eu sou o Matheus!
 
 <div align="center">
 
