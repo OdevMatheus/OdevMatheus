@@ -121,7 +121,7 @@ Em vez de listar classificações por estrelas subjetivas, prefiro demonstrar **
         <a href="https://github.com/OdevMatheus/nexum-monorepo">🏢 Nexum </a>
       </h3>
       <p align="center">
-        <img alt="Java" src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+        <img alt="Java" src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
         <img alt="React" src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
         <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
         <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white">
