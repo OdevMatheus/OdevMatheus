@@ -116,6 +116,24 @@ Em vez de listar classificações por estrelas subjetivas, prefiro demonstrar **
 
 <table align="center" width="100%">
   <tr>
+        <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/OdevMatheus/nexum-monorepo">🏢 Nexum </a>
+      </h3>
+      <p align="center">
+        <img alt="Java" src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+        <img alt="React" src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+        <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white">
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      </p>
+      <p align="justify">
+        <strong>SaaS B2B completo de Gestão de Assinaturas (Monorepo)</strong>. No backend, implementa uma máquina de estados complexa de faturamento e eventos em tempo real integrados com Apache Kafka. No frontend, uma SPA altamente responsiva construída em React 19, TypeScript e Tailwind CSS v4 com Framer Motion.
+      </p>
+      <p align="center">
+        <a href="https://github.com/OdevMatheus/nexum-monorepo"><b>Explorar Repositório →</b></a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/OdevMatheus/task-manager-api">📋 Task Manager API</a>
@@ -131,23 +149,6 @@ Em vez de listar classificações por estrelas subjetivas, prefiro demonstrar **
       </p>
       <p align="center">
         <a href="https://github.com/OdevMatheus/task-manager-api"><b>Explorar Repositório →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/OdevMatheus/nexum-monorepo">🏢 Nexum Monorepo</a>
-      </h3>
-      <p align="center">
-        <img alt="React" src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-        <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white">
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-      </p>
-      <p align="justify">
-        <strong>SaaS B2B completo de Gestão de Assinaturas (Monorepo)</strong>. No backend, implementa uma máquina de estados complexa de faturamento e eventos em tempo real integrados com Apache Kafka. No frontend, uma SPA altamente responsiva construída em React 19, TypeScript e Tailwind CSS v4 com Framer Motion.
-      </p>
-      <p align="center">
-        <a href="https://github.com/OdevMatheus/nexum-monorepo"><b>Explorar Repositório →</b></a>
       </p>
     </td>
   </tr>
