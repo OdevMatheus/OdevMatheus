@@ -160,7 +160,6 @@ Em vez de listar classificações por estrelas subjetivas, prefiro demonstrar **
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=OdevMatheus&theme=github-dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=OdevMatheus&theme=github-dark&hide_border=true&bg_color=0D1117&color=0F7AFF&line=0F7AFF&point=FFFFFF&area=true&hide_title=true" />
 </div>
 
 ---
