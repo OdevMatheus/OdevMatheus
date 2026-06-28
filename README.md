@@ -156,7 +156,13 @@ Em vez de listar classificações por estrelas subjetivas, prefiro demonstrar **
 
 ---
 
+## 📈 Estatísticas do GitHub
 
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=OdevMatheus&theme=github-dark&hide_border=true" />
+</div>
+
+---
 
 ## 📖 Formação & Certificações
 
